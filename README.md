@@ -35,6 +35,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="postgreSQL" 
+    title="postgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="http://www.w3.org/2000/svg" 
+/>
 
 <br/>
 <br/>
